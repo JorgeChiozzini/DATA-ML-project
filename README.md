@@ -2,13 +2,10 @@
 Complete hands-on machine learning and AI tutorial with data science, Tensorflow, GPT, OpenAI, and neural networks.
 
 
-Deep Learning / Neural Networks (MLP's, CNN's, RNN's) with TensorFlow and Keras
-
-How modern generative AI works with transformers (GPT), self-attention, and large language models
-
-Using the OpenAI API for GPT and ChatGPT
-
-Fine-tuning GPT with your own training data (complete with an example of creating your own Commander Data from TV!)
+Deep Learning / Neural Networks (MLP's, CNN's, RNN's) with TensorFlow and Keras;
+How modern generative AI works with transformers (GPT), self-attention, and large language models;
+Using the OpenAI API for GPT and ChatGPT;
+Fine-tuning GPT with your own training data (complete with an example of creating your own Commander Data from TV!);
 
 Creating synthetic images with Variational Auto-Encoders (VAE's) and Generative Adversarial Networks (GAN's)
 
